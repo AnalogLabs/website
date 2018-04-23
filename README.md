@@ -12,25 +12,27 @@ Apply this knowledge for social good.
 ## [mission 3: sustainability]
 Be financially and environmentally sustainable.
 
-# [philosophy and operational model]
-All work derived from analog labs' work must be kept in the public domain.
-Stake in any commercial work derived from analog labs' work must be offered
+# [ philosophy and operational model ]
+* All work derived from analog labs' work must be kept in the public domain.
+
+* Stake in any commercial work derived from analog labs' work must be offered
 equally to all members of the public.
 
 # [aesthetic]
 ![Analog Website](https://analog.nyc3.digitaloceanspaces.com/analog_website.jpeg)
 
 # [proposals & prototypes]
-### [ Community-based health savings fund ]
-### [ GPS system with ePaper display ]
-### [ Fleet sharing application ]
-### [ Cashier-less cryptocurrency payment system ]
-### [ Wind-powered electrical generator ]
-### [ Tactile communication device for individuals with visual impairments ]
-### [ Biodegradable packaging ]
-### [ Pedestrial alert system for Aldea intersection ]
-### [ Blockchain-connected security camera network ]
-### [ Left-handed keyboard ]
+### * Community-based health savings fund 
+### * GPS system with ePaper display 
+### * Fleet sharing application 
+### * Cashier-less cryptocurrency payment system 
+### * Wind-powered electrical generator 
+### * Tactile communication device for individuals with visual impairments 
+### * Biodegradable packaging 
+### * Pedestrial alert system for Aldea intersection 
+### * Blockchain-connected security camera network 
+### * Left-handed keyboard 
+
 ### [ participate ]
 
 Would you like to learn more about these projects? 
@@ -66,7 +68,7 @@ Read the full Contributor Covenant.
 
 
 ## ANALOG.EARTH
-## TO CONCENSUS,
+## TO CONSENSUS,
 ## AND BEYOND!
 
 
