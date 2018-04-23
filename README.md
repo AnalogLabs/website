@@ -1,7 +1,7 @@
 ![Analog Labs](https://analog.nyc3.digitaloceanspaces.com/analog.png)
 
 # [what is analog?]
-analog labs is an open-source research and development laboratory
+analog labs is an open-source applied research laboratory
 
 ## [mission 1: education]
 Educate societies about emerging paradigms of participatory computing.
@@ -33,7 +33,7 @@ equally to all members of the public.
 ### * Blockchain-connected security camera network 
 ### * Left-handed keyboard 
 
-### [ participate ]
+# [ Participate ]
 
 Would you like to learn more about these projects? 
 
