@@ -31,7 +31,7 @@ equally to all members of the public.
 ### * Biodegradable packaging 
 ### * Pedestrial alert system for Aldea intersection 
 ### * Blockchain-connected security camera network 
-### * Left-handed keyboard 
+### * Ergonomic left-handed keyboard 
 
 # [ Participate ]
 
