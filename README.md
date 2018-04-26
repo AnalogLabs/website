@@ -19,7 +19,7 @@ Be financially and environmentally sustainable.
 equally to all members of the public.
 
 # [aesthetic]
-![Analog Website](https://analog.nyc3.digitaloceanspaces.com/analog_website.jpg)
+![Analog Website](https://analog.nyc3.digitaloceanspaces.com/analog_website.JPG)
 
 # [proposals & prototypes]
 ### * Community-based health savings fund 
