@@ -33,6 +33,11 @@ equally to all members of the public.
 ### * Blockchain-connected security camera network 
 ### * Ergonomic left-handed keyboard 
 
+# [ Popup Lab ]
+## GPS Treasure Hunt
+
+Participants will learn how to build their very own global positioning system (GPS) which can run for days with one solar charge. It works anywhere on earth, without an internet connection. More importantly, they will walk away with valuable software and hardware skills which will serve them well in all their future pursuits. Participants will work in groups with each group specializing in one task involved in building a GPS system: for example, getting an LCD screen to communicate with a Raspberry Pi, reading data from GPS transceiver, writing code to display GPS coordinates on the LCD screen, using a LInux operating system. Each group will be taught how to perform one task. With the shared goal of building a GPS sytem (necessitating effective information exchange among groups), which approaches will lead to the shortest path to this goal, and how can we engineer an incentive system that promotes collaborative work that enriches a community with knowledge? With the shared goal of building a GPS system, groups will be exchanging information learned from performing their assigned tasks and explore the approaches which will lead to the shortest path to achieving this goal. This synergy of groups working together can begin to engineer an incentive system that promotes collaborative work that enriches the community with knowledge. For extra credit, participants will be given GPS coordinates to a treasure, and the treasure hunt will be an opportunity to mingle and celebrate the valuable skills they will acquire.
+
 # [ Participate ]
 
 Would you like to learn more about these projects? 
@@ -46,15 +51,18 @@ Host an Analog Labs workshop?
 
 We'd love to hear from you! 
 ```
-royd@analog.earth	
-steven@analog.earth	
-linh@analog.earth
-betty@analog.earth	
-omar@analog.earth	
-peter@analog.earth
-hai@analog.earth	
-tarek@analog.earth	
-arwa@analog.earth
+royd
+steven
+linh
+seth
+betty
+omar
+peter
+dana
+hai
+tarek
+arwa
+[at] analog [dot] earth
 ```
 
 # [ Code of Conduct ]
