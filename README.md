@@ -19,19 +19,19 @@ Be financially and environmentally sustainable.
 equally to all members of the public.
 
 # Aesthetic
-![Analog Website](https://analog.nyc3.digitaloceanspaces.com/analog_website.JPG)
+![Analog Website](https://github.com/AnalogLabs/website/blob/master/analog_website.jpeg)
 
 # Proposals & prototypes
-### * Community-based health fund 
-### * GPS system with ePaper display 
-### * Fleet sharing application 
-### * Cashier-less cryptocurrency payment system 
-### * Wind-powered electrical generator 
-### * Tactile communication device for individuals with visual impairments 
-### * Biodegradable packaging 
-### * Pedestrial alert system for Aldea intersection 
-### * Blockchain-connected security camera network 
-### * Ergonomic left-handed keyboard 
+* Community-based health fund 
+* GPS system with ePaper display 
+* Fleet sharing application 
+* Cashier-less cryptocurrency payment system 
+* Wind-powered electrical generator 
+* Tactile communication device for individuals with visual impairments 
+* Biodegradable packaging 
+* Pedestrial alert system for Aldea intersection 
+* Blockchain-connected security camera network 
+* Ergonomic left-handed keyboard 
 
 # Popup Lab 
 ## GPS Treasure Hunt
