@@ -18,9 +18,6 @@ Be financially and environmentally sustainable.
 * Stake in any commercial work derived from analog labs' work must be offered
 equally to all members of the public.
 
-# Aesthetic
-![Analog Website](https://github.com/AnalogLabs/website/blob/master/analog_website.jpeg)
-
 # Proposals & prototypes
 * Community-based health fund 
 * GPS system with ePaper display 
